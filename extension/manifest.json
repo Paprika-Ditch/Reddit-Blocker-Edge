@@ -4,7 +4,7 @@
   "short_name": "Reddit Block",
   "version": "1.0.0",
   "version_name": "1.0.0 – Reddit Blocker",
-  "description": "Blocks reddit.com with a toggle feature.",
+  "description": "Blocks https://reddit.com with a toggle feature.",
   "default_locale": "en",
   "permissions": [
     "storage",
