@@ -1,9 +1,9 @@
 {
   "manifest_version": 3,
-  "name": "Reddit Blocker Chrome",
+  "name": "Reddit Blocker",
   "short_name": "Reddit Blocker",
-  "version": "1.1.0",
-  "version_name": "1.1.0 – Blocks Reddit & Shorts",         
+  "version": "1.0.0",
+  "version_name": "1.0.0 – Reddit Blocker",         
   "description": "Blocks reddit.com with a toggle feature.",
   "permissions": [
     "storage",
@@ -23,7 +23,7 @@
     "128": "icons/lightdarkmode128.png"
     },
   "offline_enabled": true,
-  "homepage_url": "https://github.com/Paprika-Ditch/Reddit-Blocker-Chrome",
+  "homepage_url": "https://github.com/Paprika-Ditch/Reddit-Blocker-Edge",
   "content_security_policy": {
     "extension_pages": "script-src 'self'; object-src 'none';"
   }
