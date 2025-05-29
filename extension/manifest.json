@@ -1,10 +1,11 @@
 {
   "manifest_version": 3,
-  "name": "Reddit Blocker",
+  "name": "Reddit Blocker Edge",
   "short_name": "Reddit Blocker",
   "version": "1.0.0",
-  "version_name": "1.0.0 – Reddit Blocker",         
+  "version_name": "1.0.0 – Reddit Blocker",
   "description": "Blocks reddit.com with a toggle feature.",
+  "default_locale": "en",
   "permissions": [
     "storage",
     "declarativeNetRequest",
@@ -21,7 +22,7 @@
     "16": "icons/lightdarkmode16.png",
     "48": "icons/lightdarkmode48.png",
     "128": "icons/lightdarkmode128.png"
-    },
+  },
   "offline_enabled": true,
   "homepage_url": "https://github.com/Paprika-Ditch/Reddit-Blocker-Edge",
   "content_security_policy": {
