@@ -5,7 +5,6 @@
   "version": "1.0.0",
   "version_name": "1.0.0 – Reddit Blocker",
   "description": "Blocks Reddit with a toggle feature.",
-  "default_locale": "en",
   "permissions": [
     "storage",
     "declarativeNetRequest",
